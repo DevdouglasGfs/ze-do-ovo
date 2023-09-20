@@ -1,1 +1,0 @@
-import{p as t}from"./index-ab5b4864.js";const c=t("activeElement",{state:()=>({activeElementId:""}),getters:{hasActive(){return this.activeElementId!=""}},actions:{setActiveElement(e){this.activeElementId=e},resetActiveElement(){this.activeElementId=""},checkIfIsActive(e){return this.activeElementId===e}}});export{c as u};
